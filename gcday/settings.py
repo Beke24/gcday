@@ -56,10 +56,10 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "gcday",
-        "USER": "bekele",
-        "PASSWORD": "beke24.com",
+        "USER": "gcday_user",
+        "PASSWORD": "LpnQHLA1q0EGpRGz2tgfnAJ2bvEXG9Na",
         "HOST": "localhost",  # or your cloud host
-        "PORT": "5434",
+        "PORT": "5432",
     }
 }
 
